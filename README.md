@@ -1,4 +1,4 @@
-# project-1-ios-tasklist-gaurav-aryal
+# ios-tasklist-gaurav-aryal
 
 My Project/App Title is AppDevelopmentProject1 which is a to do list where users can add, edit, and remove items.
 Basic instructions on usage: This app has total of four screens: 
